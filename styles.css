@@ -161,6 +161,7 @@ HIGHLIGHTS
 
 .highlight__img {
     border: 2px solid #7342d6;
+    color: #7342d6;
     width: 100px;
     height: 100px;
     display: flex;
@@ -169,4 +170,9 @@ HIGHLIGHTS
     border-radius: 4px;
     font-size: 32px;
     margin-bottom: 24px;
+}
+
+.highlight__subtitle {
+    font-size: 20px;
+    margin-bottom: 16px;
 }
